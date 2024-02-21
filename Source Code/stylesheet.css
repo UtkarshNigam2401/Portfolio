@@ -357,7 +357,7 @@ body {
 }
 
 .progress-line.javascript span {
-    width: 65%;
+    width: 70%;
 }
 
 .progress-line.java span {
@@ -365,7 +365,7 @@ body {
 }
 
 .progress-line.react span {
-    width: 50%;
+    width: 65%;
 }
 
 .progress-line span::after {
@@ -386,11 +386,11 @@ body {
 }
 
 .progress-line.css span::after {
-    content: "70%";
+    content: "80%";
 }
 
 .progress-line.javascript ::after {
-    content: "85%";
+    content: "70%";
 }
 
 .progress-line.java span::after {
